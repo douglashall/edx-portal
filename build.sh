@@ -1,3 +1,3 @@
 #!/bin/bash
 
-npm run build
+/usr/local/bin/npm run build
